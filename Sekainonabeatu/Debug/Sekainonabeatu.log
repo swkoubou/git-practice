@@ -1,0 +1,4 @@
+﻿  nabeatu.c
+c:\users\1721116\documents\プログラミング個人練習\sekainonabeatu\nabeatu.c(4): warning C4101: 'a': ローカル変数は 1 度も使われていません。
+  Sekainonabeatu.vcxproj -> C:\Users\1721116\Documents\プログラミング個人練習\Sekainonabeatu\Debug\Sekainonabeatu.exe
+  Sekainonabeatu.vcxproj -> C:\Users\1721116\Documents\プログラミング個人練習\Sekainonabeatu\Debug\Sekainonabeatu.pdb (Full PDB)
