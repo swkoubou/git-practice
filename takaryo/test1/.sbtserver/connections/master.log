@@ -1,0 +1,13 @@
+New log file opened at Tue Sep 19 16:41:19 JST 2017 by 7228@1721112-PC
+Taking next connection to: 50484
+New client attempting to connect on port: 50485-50484
+  Address = /192.168.1.18:50484
+This client on port 50485 has uuid 4cbc814e-6305-457f-bfbb-13c653362a61 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-4cbc814e-6305-457f-bfbb-13c653362a61
+Taking next connection to: 50484
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 7228@1721112-PC logs at Tue Sep 19 16:44:22 JST 2017, goodbye.
